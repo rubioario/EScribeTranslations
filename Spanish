@@ -13,7 +13,7 @@ msgid  "&File"
 msgstr "&Fichero"
 
 msgid  "&New (Reset to Evolv Standard)"
-msgstr "&Nuevo (Reinicia al estandar Evolv)"
+msgstr "&Nuevo (Nuevo Ecigtheme)"
 
 msgid  "&Open..."
 msgstr "&Abrir..."
@@ -40,7 +40,7 @@ msgid  "&Internet"
 msgstr "&Internet"
 
 msgid  "&Log in..."
-msgstr "&Accede..."
+msgstr "&Conecta..."
 
 msgid  "E-mail:"
 msgstr "E-mail:"
@@ -124,7 +124,7 @@ msgid  "Show Serial &Number..."
 msgstr "Ver &numero serie..."
 
 msgid  "Update &Firmware..."
-msgstr "Aggiornamento &firmware..."
+msgstr "Actualizar &firmware..."
 
 msgid  "&Help"
 msgstr "&Ayuda"
@@ -490,7 +490,7 @@ msgid  "Temperature (Standard)"
 msgstr "Temperatura (Estandard)"
 
 msgid  "Battery Charge %"
-msgstr "carica della batteria %"
+msgstr "Carga de la bateria %"
 
 msgid  "Battery Charge Wh"
 msgstr "Carga de la batteria en Wh"
